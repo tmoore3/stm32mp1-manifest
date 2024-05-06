@@ -15,6 +15,6 @@
   <project name="meta-st-stm32mp-addons" path="layers/meta-st/meta-st-stm32mp-addons" remote="OpenSTLinux" revision="85284b954ca36f00f18a5cc247d3dbf2cebcf372"/>
   <project name="meta-st-scripts" path="layers/meta-st/scripts" remote="OpenSTLinux" revision="83f470a922383024c1f11086a2a7901f89f98098"/>
   <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="3ef283e02b0b91daf64c3a589e1f6bb68d4f5aa1"/>
-  <project name="meta-tmoore3-stm32mp1" path="sources/meta-tmoore3-stm32mp1" revision="mickledore"/>
-  <project name="meta-tmoore3" path="sources/meta-tmoore3" revision="mickledore"/>
+  <project name="meta-tmoore3-stm32mp1" path="layers/meta-tmoore3-stm32mp1" revision="mickledore"/>
+  <project name="meta-tmoore3" path="layers/meta-tmoore3" revision="mickledore"/>
 </manifest>
